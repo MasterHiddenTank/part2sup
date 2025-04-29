@@ -40,11 +40,9 @@ Twisted
 txaio
 tzlocal
 urllib3
-yfinance
+yfinance==0.1.63
 zope.interface
-
-# Advanced ML libraries
-torch>=1.9.0
-tensorflow>=2.6.0
-xgboost>=1.4.2
-deepspeed>=0.5.10
+torch
+tensorflow
+xgboost
+deepspeed
